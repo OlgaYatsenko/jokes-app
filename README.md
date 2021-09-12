@@ -10,4 +10,4 @@ A web page that quotes Chuck Norris (his jokes)
 ### Description/details 
 * An external library (guru.springframework.norris.chuck) is used to extract a random Chuck Norris joke; 
 * MVC model;
-* xml configuration for creating Spring Beans;
+* Both annotations and xml configurations are for creating Spring Beans;
